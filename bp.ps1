@@ -1,0 +1,1 @@
+write-host " init repository powershell"
